@@ -1,5 +1,6 @@
 
 
+import 'package:cars_details_flutter_web/view/widgets/details_widget.dart';
 import 'package:cars_details_flutter_web/view/widgets/drawer_widget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -18,7 +19,7 @@ class CardDetailsScreen extends StatelessWidget {
               flex: 1, child:  DrawerWidget(),),
 
             Expanded(
-              flex: 5, child:  Container(color: Colors.black,),),
+              flex: 5, child:  DetailsWidget(),),
           ],
         ),
       ),
