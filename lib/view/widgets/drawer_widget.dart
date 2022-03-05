@@ -19,23 +19,23 @@ class _DrawerWidgetState extends State<DrawerWidget> {
 
   List<DrawerModel> drawerList = [
     DrawerModel(
-        icon:  Icons.lock ,
+        icon:  Icons.card_travel ,
         title: "Buy Chars",
         isActive: false,
 
     ),
     DrawerModel(
-        icon:  Icons.lock ,
+        icon:  Icons.local_grocery_store_outlined  ,
         title: "Sell Chars",
         isActive: false
     ),
     DrawerModel(
-        icon:  Icons.lock ,
+        icon:  Icons.favorite_outline_outlined  ,
         title: "Liked Chars",
         isActive: false
     ),
     DrawerModel(
-        icon:  Icons.lock ,
+        icon:  Icons.chat_outlined  ,
         title: "Messages",
         isActive: false
     ),
@@ -104,7 +104,7 @@ class _DrawerWidgetState extends State<DrawerWidget> {
               },
               child: Row(
                 children: [
-                  Icon(Icons.lock , color: Colors.white),
+                  Icon(Icons.logout , color: Colors.white),
                   SizedBox(width: 10,),
                   Text('Log Out' , style: TextStyle(color: Colors.white),),
                 ],

@@ -20,7 +20,7 @@ class SpecificationWidget extends StatelessWidget {
             Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  const Text("Specification" , style: TextStyle(color: Colors.white),),
+                  const Text("Specification" , style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),),
                   Row(
                     children: const [
                       Text("edit" , style: TextStyle(color: Colors.white),),
