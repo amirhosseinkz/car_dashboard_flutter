@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+![Car Dashboard](https://github.com/amirhosseinkz/car_dashboard_flutter_web/blob/master/assets/car_details_video.gif)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
