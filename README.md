@@ -5,12 +5,6 @@ A new Flutter project.
 ## Getting Started
 
 
-
-https://github.com/amirhosseinkz/car_dashboard_flutter_web/assets/77144745/bd50bc92-b51d-42df-92c6-e033ef154339
-
-
-
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
